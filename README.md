@@ -19,7 +19,12 @@ git clone https://github.com/Jordan-celton/P8.git
    - Ouvrir Chrome, aller dans l'inspecteur (F12), onglet "Lighthouse".
    - Générer un audit et comparer les résultats avec ceux du rapport initial.
 
-
+## 📚 Ce que vous apprendrez
+- Réaliser un audit SEO et accessibilité complet.
+- Utiliser Lighthouse et Wave pour diagnostiquer les problèmes et suivre les améliorations.
+- Appliquer des bonnes pratiques en SEO : balises sémantiques, méta-données, optimisation des ressources.
+- Gérer la performance web : compression d'images, minification des fichiers, lazy loading.
+- Rédiger un rapport d’optimisation pour les parties prenantes.
 
 ## 🛠️ Technologies utilisées
 
