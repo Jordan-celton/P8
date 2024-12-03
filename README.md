@@ -1,9 +1,36 @@
+# 🌟 Optimisation du référencement et de la performance d'un site web
 
-Résumé du Projet
-Ce projet consiste à travailler en tant que développeur freelance pour optimiser le référencement d’un site en améliorant sa performance et son accessibilité.
+Dans ce projet, vous agirez en tant que développeur freelance chargé d'améliorer le référencement, la performance et l'accessibilité d'un site web pour en maximiser la visibilité et l'expérience utilisateur.
 
-Objectifs d'Apprentissage :
-Identification des Problèmes : Analyser le site pour identifier les problèmes de chargement et de référencement, en utilisant des outils comme Lighthouse et Wave.
-Propositions d'Amélioration : Formuler des recommandations pour améliorer la vitesse de chargement, la structure du code, et le référencement.
-Mise en Œuvre des Améliorations : Appliquer les modifications proposées en modifiant le code du site afin d'optimiser ses performances et son accessibilité.
-Création d'un Rapport : Élaborer un rapport détaillant les résultats avant et après les modifications, incluant des captures d'écran des audits et des explications sur les changements apportés et leur impact sur le référencement et l'accessibilité du site.
+## 📝 Instructions d'installation
+
+Cloner le projet :
+
+```bash
+git clone https://github.com/Jordan-celton/P8.git
+```
+- Ouvrir le projet dans un éditeur :
+
+  - Utiliser Visual Studio Code ou tout éditeur de votre choix.
+  - Lancer un serveur local (par exemple, avec Live Server dans VS Code).
+
+- Effectuer des tests Lighthouse :
+
+   - Ouvrir Chrome, aller dans l'inspecteur (F12), onglet "Lighthouse".
+   - Générer un audit et comparer les résultats avec ceux du rapport initial.
+
+
+
+## 🛠️ Technologies utilisées
+
+- Lighthouse : Audit des performances, SEO, et accessibilité.
+- Wave : Analyse de l'accessibilité du site.
+- HTML/CSS/JavaScript : Modification du code pour optimiser le site.
+- Figma (le cas échéant) : Révision des maquettes si nécessaire.
+
+
+
+## 📜 License
+Ce projet est sous la licence MIT. Vous êtes libre de l'utiliser, de le modifier et de le distribuer selon les termes de cette licence.
+
+[MIT](https://choosealicense.com/licenses/mit/)
